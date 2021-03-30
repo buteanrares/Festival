@@ -1,0 +1,3 @@
+A Kanye 11/09/2020 Portland 100 100
+M Gentlemen 12/12/2020 Chicago 300 0 0 
+A artist data loc 500 500

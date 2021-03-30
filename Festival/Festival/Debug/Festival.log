@@ -1,0 +1,27 @@
+﻿  Artist.cpp
+  Console.cpp
+  Event.cpp
+  EventValidator.cpp
+  Festival.cpp
+  Movie.cpp
+C:\Users\butea\source\repos\Festival\Festival\Movie.cpp(55,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\butea\source\repos\Festival\Festival\Movie.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+  ReadFromFileException.cpp
+  Repo.cpp
+C:\Users\butea\source\repos\Festival\Festival\Repo.cpp(52,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\butea\source\repos\Festival\Festival\Repo.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\butea\source\repos\Festival\Festival\Repo.cpp(84,23): warning C4018: '<': signed/unsigned mismatch
+  RepoCSV.cpp
+  RepoException.cpp
+  RepoTXT.cpp
+  Service.cpp
+C:\Users\butea\source\repos\Festival\Festival\Service.cpp(23,23): warning C4018: '<': signed/unsigned mismatch
+  TestEvent.cpp
+  TestMovie.cpp
+  TestRepo.cpp
+  ValidationException.cpp
+  ValidatorArtist.cpp
+  ValidatorEvent.cpp
+  ValidatorMovie.cpp
+  Generating Code...
+  Festival.vcxproj -> C:\Users\butea\source\repos\Festival\Debug\Festival.exe
